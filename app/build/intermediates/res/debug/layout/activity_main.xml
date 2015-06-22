@@ -1,0 +1,89 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Nanodegree Apps!"
+        android:id="@+id/textView"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="fill_horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="30dp"
+        android:layout_marginEnd="30dp"
+        android:capitalize="characters"
+        android:textSize="32dp"
+        android:textColor="#42A5F5"
+        android:textStyle="bold"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SPOTIFY STEAMER"
+        android:padding="15dp"
+        android:id="@+id/b1"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:background="@color/newone"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SCORES APP"
+        android:padding="15dp"
+        android:id="@+id/b2"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:background="@color/newone"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LIBRARY APP"
+        android:padding="15dp"
+        android:id="@+id/b3"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:background="@color/newone"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUILD IT BIGGER"
+        android:padding="15dp"
+        android:id="@+id/b4"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:background="@color/newone"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XYZ READER"
+        android:padding="15dp"
+        android:id="@+id/b5"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_vertical"
+        android:background="@color/newone"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"/>
+
+
+
+    </LinearLayout><!-- From: file:/C:/Users/Acer/AndroidStudioProjects/ajayproject0/app/src/main/res/layout/activity_main.xml -->

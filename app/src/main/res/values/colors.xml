@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="newone">#EF5350</color>
+    <color name="newtwo">#32cd32</color>
+    <color name="newthree">#ffa500</color>
+    <color name="newfour">#64a730</color>
+    <color name="newfive">#ffff00</color>
+
+
+</resources>
